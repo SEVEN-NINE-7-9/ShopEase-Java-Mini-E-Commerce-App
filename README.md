@@ -1,4 +1,4 @@
-# ShopEase — Week 9 Java Mini E-Commerce App
+# ShopEase — Java Mini E-Commerce App
 
 ## 📦 Features
 - Browse a 10-product catalog with stock counts
